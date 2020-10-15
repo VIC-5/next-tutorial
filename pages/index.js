@@ -4,7 +4,7 @@ import utilStyle from '../styles/utils.module.css'
 
 export default function Home() {
     return (
-        <Layout Home>
+        <Layout home>
             <Head>
                 <title>{siteTitle}</title>
             </Head>
